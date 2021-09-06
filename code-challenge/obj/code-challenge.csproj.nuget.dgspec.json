@@ -1,0 +1,75 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/kartikbennet/Desktop/sr-code-challenge-dotnet/code-challenge/code-challenge.csproj": {}
+  },
+  "projects": {
+    "/Users/kartikbennet/Desktop/sr-code-challenge-dotnet/code-challenge/code-challenge.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/kartikbennet/Desktop/sr-code-challenge-dotnet/code-challenge/code-challenge.csproj",
+        "projectName": "code-challenge",
+        "projectPath": "/Users/kartikbennet/Desktop/sr-code-challenge-dotnet/code-challenge/code-challenge.csproj",
+        "packagesPath": "/Users/kartikbennet/.nuget/packages/",
+        "outputPath": "/Users/kartikbennet/Desktop/sr-code-challenge-dotnet/code-challenge/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/kartikbennet/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "targetAlias": "netcoreapp2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "targetAlias": "netcoreapp2.1",
+          "dependencies": {
+            "Microsoft.AspNetCore.All": {
+              "target": "Package",
+              "version": "[2.0.6, )"
+            },
+            "Microsoft.AspNetCore.JsonPatch": {
+              "target": "Package",
+              "version": "[2.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[2.0.2, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.302/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

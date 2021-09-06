@@ -1,0 +1,72 @@
+﻿<Properties StartupConfiguration="{8ABA1EEA-DF6D-43B9-9F23-4E8C234A5ABF}|Default">
+  <MonoDevelop.Ide.ItemProperties.code-challenge PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="code-challenge/Models/Employee.cs">
+    <Files>
+      <File FileName="code-challenge/Controllers/EmployeeController.cs" Line="65" Column="1" />
+      <File FileName="code-challenge.Tests/EmployeeControllerTests.cs" />
+      <File FileName="code-challenge.Tests/Extensions/HttpResponseMessageExtensions.cs" />
+      <File FileName="code-challenge/Services/EmployeeService.cs" />
+      <File FileName="code-challenge/Repositories/EmployeeRespository.cs" Line="32" Column="124" />
+      <File FileName="code-challenge/Data/EmployeeContext.cs" />
+      <File FileName="code-challenge/Startup.cs" />
+      <File FileName="code-challenge/Data/EmployeeDataSeeder.cs" />
+      <File FileName="code-challenge.Tests/TestServerStartup.cs" />
+      <File FileName="code-challenge/Models/ReportingStructure.cs" />
+      <File FileName="code-challenge/Services/IEmployeeService.cs" />
+      <File FileName="code-challenge/Repositories/IEmployeeRepository.cs" />
+      <File FileName="code-challenge/Models/Employee.cs" Line="20" Column="16" />
+      <File FileName="code-challenge/resources/EmployeeSeedData.json" />
+      <File FileName="code-challenge/Models/EmployeeCompensation.cs" />
+      <File FileName="code-challenge/Models/EmployeeCompensationDTO.cs" />
+      <File FileName="code-challenge/Models/EmployeeCompensationRequest.cs" />
+      <File FileName="code-challenge/Repositories/IEmployeeCompensationRepository.cs" />
+      <File FileName="code-challenge/Repositories/EmployeeCompensationRepository.cs" />
+      <File FileName="code-challenge.Tests/Helpers/JsonSerializer.cs" />
+      <File FileName="code-challenge/Program.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="code-challenge" expanded="True">
+            <Node name="code-challenge" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Data" expanded="True" />
+              <Node name="Models" expanded="True">
+                <Node name="Employee.cs" selected="True" />
+              </Node>
+              <Node name="Properties" expanded="True" />
+              <Node name="Repositories" expanded="True" />
+              <Node name="resources" expanded="True" />
+              <Node name="Services" expanded="True" />
+            </Node>
+            <Node name="code-challenge.Tests.Integration" expanded="True">
+              <Node name="Extensions" expanded="True" />
+              <Node name="Helpers" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="code-challenge" expanded="True" selected="True">
+            <Node name="code-challenge.Tests.Integration" expanded="True">
+              <Node name="code_challenge.Tests.Integration" expanded="True">
+                <Node name="EmployeeControllerTests" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.code-challenge.Tests.Integration PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/kartikbennet/Desktop/sr-code-challenge-dotnet/code-challenge.Tests/EmployeeControllerTests.cs" relfile="code-challenge.Tests/EmployeeControllerTests.cs" line="182" column="1" />
+      <Breakpoint file="/Users/kartikbennet/Desktop/sr-code-challenge-dotnet/code-challenge/Controllers/EmployeeController.cs" relfile="code-challenge/Controllers/EmployeeController.cs" line="62" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

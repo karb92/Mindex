@@ -1,0 +1,15 @@
+/Users/kartikbennet/Desktop/sr-code-challenge-dotnet/code-challenge/bin/Debug/netcoreapp2.1/appsettings.Development.json
+/Users/kartikbennet/Desktop/sr-code-challenge-dotnet/code-challenge/bin/Debug/netcoreapp2.1/appsettings.json
+/Users/kartikbennet/Desktop/sr-code-challenge-dotnet/code-challenge/bin/Debug/netcoreapp2.1/resources/EmployeeSeedData.json
+/Users/kartikbennet/Desktop/sr-code-challenge-dotnet/code-challenge/bin/Debug/netcoreapp2.1/code-challenge.deps.json
+/Users/kartikbennet/Desktop/sr-code-challenge-dotnet/code-challenge/bin/Debug/netcoreapp2.1/code-challenge.runtimeconfig.json
+/Users/kartikbennet/Desktop/sr-code-challenge-dotnet/code-challenge/bin/Debug/netcoreapp2.1/code-challenge.runtimeconfig.dev.json
+/Users/kartikbennet/Desktop/sr-code-challenge-dotnet/code-challenge/bin/Debug/netcoreapp2.1/code-challenge.dll
+/Users/kartikbennet/Desktop/sr-code-challenge-dotnet/code-challenge/bin/Debug/netcoreapp2.1/code-challenge.pdb
+/Users/kartikbennet/Desktop/sr-code-challenge-dotnet/code-challenge/obj/Debug/netcoreapp2.1/code-challenge.csproj.AssemblyReference.cache
+/Users/kartikbennet/Desktop/sr-code-challenge-dotnet/code-challenge/obj/Debug/netcoreapp2.1/code-challenge.AssemblyInfoInputs.cache
+/Users/kartikbennet/Desktop/sr-code-challenge-dotnet/code-challenge/obj/Debug/netcoreapp2.1/code-challenge.AssemblyInfo.cs
+/Users/kartikbennet/Desktop/sr-code-challenge-dotnet/code-challenge/obj/Debug/netcoreapp2.1/code-challenge.csproj.CoreCompileInputs.cache
+/Users/kartikbennet/Desktop/sr-code-challenge-dotnet/code-challenge/obj/Debug/netcoreapp2.1/code-challenge.dll
+/Users/kartikbennet/Desktop/sr-code-challenge-dotnet/code-challenge/obj/Debug/netcoreapp2.1/code-challenge.pdb
+/Users/kartikbennet/Desktop/sr-code-challenge-dotnet/code-challenge/obj/Debug/netcoreapp2.1/code-challenge.genruntimeconfig.cache

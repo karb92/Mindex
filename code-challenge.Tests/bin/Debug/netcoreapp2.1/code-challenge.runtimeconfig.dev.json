@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/kartikbennet/.dotnet/store/|arch|/|tfm|",
+      "/Users/kartikbennet/.nuget/packages"
+    ]
+  }
+}
